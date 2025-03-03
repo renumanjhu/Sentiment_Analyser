@@ -1,1 +1,1 @@
-# Stock-Sentiment-Analysis-Using-Machine-Learning
+# Stock-Sentiment-Analysis
